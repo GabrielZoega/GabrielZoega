@@ -5,8 +5,8 @@
 
 ##
 
-[![card](https://github-readme-stats.vercel.app/api?username=GabrielZoega&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZoega&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielZoega&show_icons=true&theme=tokyonight"/>
+<img alt="top langs" align="center" width="33.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZoega&layout=donut&theme=tokyonight"/>
 
 
 <div style="display: inline_block"><br>
