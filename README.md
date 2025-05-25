@@ -1,7 +1,8 @@
 ### Olá, meu nome é Gabriel Zoéga!
 
 - No momento, cursando Ciência da Computação na UFV Campus Florestal 
-- Participo em pesquisas sobre community smells no NuPESSC
+- Atualmente participo em pesquisas sobre ética no desenvolvimento de software no NuPESSC
+- Já participei em pesquisas sobre community smells, truck factor e rotatividade em repositórios utilizando mineração de dados.
 
 ##
 
